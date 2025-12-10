@@ -10,4 +10,4 @@ trail:
         - name: sbom
           type: generic
         - name: performance-test
-          required: true
+          type: generic
